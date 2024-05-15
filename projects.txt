@@ -1,5 +1,0 @@
-https://www.youtube.com/live/NKa_jxjBjYU?feature=share
-
--- campus automation; -> attendance automation;
--- detection of data leaks using sql injections
--- web cloud
